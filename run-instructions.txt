@@ -1,0 +1,2 @@
+unsetenv DISPLAY
+nice matlab < input.m > & output.txt &
